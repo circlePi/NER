@@ -1,6 +1,6 @@
 # NER
 ## DATA
-- 2014 people daily paper tagged dataset
+- 2014 people daily newspaper tagged dataset
 - For convience, the preprocessed data is free to download at https://pan.baidu.com/s/17sa7a-u-cDXjbW4Rok2Ntg
 ## pycrf
 - A implement of crf by feature template with pysuite
